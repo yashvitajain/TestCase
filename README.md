@@ -1,7 +1,8 @@
 # TestCase
-Restful Api
+Restful Api with Junit test
 
 Run Application Locally 
+
 To run our application, all we need to do is to run the SpringrestApplication class that contains the main()method that starts Spring Boot. Eclipse automatically detects that we have a class with a main() method and allows us run it.
 To start our application, we have to follow the below steps: 
 •	Click Run Application (the "play" icon) in the toolbar.
